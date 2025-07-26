@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 I'm Umang Malhotra, currently pursuing a PG Program in Data Science and Generative AI with a specialization in Data Analytics from IIIT Bangalore. I’m passionate about uncovering insights from data and transforming them into actionable business strategies.
 
 My journey so far has equipped me with strong hands-on skills in:
-Python: Data Structures, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-SQL: CTEs, Views, Nested Queries, Window Functions, Stored Procedures
-EDA: Data cleaning, outlier/null handling, and univariate to multivariate analysis
-Data Viz: Tableau, Power BI, Excel
-Storytelling and dashboard building to drive informed decision-making
+- Python: Data Structures, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+- SQL: CTEs, Views, Nested Queries, Window Functions, Stored Procedures
+- EDA: Data cleaning, outlier/null handling, and univariate to multivariate analysis
+- Data Viz: Tableau, Power BI, Excel
+- Storytelling and dashboard building to drive informed decision-making
 
 With a solid background in automotive embedded software development, I bring an engineering mindset, collaborative spirit, and a strong emphasis on clear communication and professional transparency. I'm now focused on transitioning into the data analytics domain, where I can leverage my technical foundation and analytical thinking to solve real-world problems.
 
